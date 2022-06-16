@@ -15,9 +15,8 @@
 2.CSS ;
 3.Java-script:
   3.1.Адаптированный  под проект слайдер с сайта https://swiperjs.com/
-  ![image](https://user-images.githubusercontent.com/98582981/174093909-508ac168-0eb5-4b74-b6ac-7bf9e129acaf.png)
-
-  
   3.2.Модальное окно, которое закрывается нажатием на пустую область 
-  ![image](https://user-images.githubusercontent.com/98582981/174092547-f8ad9ba1-b56c-425b-959e-05434392dcef.png)
+  3.3.Подключение https://yandex.ru/dev/jslibs/
+  ![image](https://user-images.githubusercontent.com/98582981/174095730-74476a75-1de2-433a-9d91-47952a1d30c8.png)
 
+ 
